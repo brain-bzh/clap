@@ -2,7 +2,7 @@ Tutorial for Contrastive Language Audio Pretraining
 --
 IMT Atlantique foundation day, Feb. 2nd 2024.
 
-[Link to slides](slides.pdf)
+[Link to slides](https://docs.google.com/presentation/d/1_MJNSXK-M65wufKq-My_Gc8LRmmOyTlbzCFXetmYK5w/edit?usp=sharing)
 
 Run the tutorial on Google Colab by clicking this button (a google account is required). 
 
